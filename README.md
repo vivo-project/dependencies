@@ -1,8 +1,8 @@
-## VIVO Dependecies
+# VIVO Dependecies
 
 Distribution of required dependencies not provided by Maven central
 
-# Adding artefacts to this project
+## Adding artefacts to this project
 
 Create a Maven project, and include a deploy plugin configuration:
 
@@ -33,29 +33,25 @@ Simply getting Maven to load the pom - e.g. mvn install - will cause the file to
 
 After "deployment", the project can be checked in to make available on GitHub.
 
-## Licenses
+# Licenses
 
-# Apache License 2.0
+## Apache License 2.0
 
 csv
 
-
-# BSD
+## BSD
 
 sparqltag
 
-
-# GNU LGPL 3
+## GNU LGPL 3
 
 fedora-client
 
-
-#JRL 1.5
+## JRL 1.5
 
 jai_codec
 jai_core
 
-
-# ORCID API client
+## ORCID API client
 
 Written as part of the ORCID A&I grant. Source is available at https://github.com/j2blake/orcid-api-client
