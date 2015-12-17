@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.directwebremoting</groupId>
+  <artifactId>dwr</artifactId>
+  <versioning>
+    <release>2.0.M2.8</release>
+    <versions>
+      <version>2.0.M2.8</version>
+    </versions>
+    <lastUpdated>20151217192354</lastUpdated>
+  </versioning>
+</metadata>
