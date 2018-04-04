@@ -1,4 +1,4 @@
-# VIVO Dependecies
+# VIVO Dependencies
 
 Distribution of required dependencies not provided by Maven central
 
